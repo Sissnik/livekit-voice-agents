@@ -45,7 +45,7 @@ uv run python livekit_basic_agent.py download-files
 
 ```bash
 # Basic Agent (einfachster Start)
-uv run python livekit_basic_agent.py console
+
 
 # n8n Tool Agent (mit Webhook Integration)
 uv run python livekit_agent_n8n_tool.py console
@@ -209,7 +209,7 @@ LOG_LEVEL=INFO
 
 ### Alle Dependencies auf einmal:
 
-```bash
+```bashuv run python livekit_basic_agent.py console
 uv sync
 ```
 

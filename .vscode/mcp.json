@@ -1,0 +1,9 @@
+{
+	"servers": {
+		"deepgram-docs": {
+			"type": "http",
+			"url": "https://deepgram.mcp.kapa.ai"
+		}
+	},
+	"inputs": []
+}
